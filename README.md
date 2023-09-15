@@ -4,7 +4,7 @@
 
 ![chatgpt2](https://github.com/arasuramanan/Chat_GPT/assets/102941390/b720d99f-7ee1-423e-a560-6510e54103cf)
 
-# website link: https://sensational-platypus-fa4721.netlify.app/
+🚀 [Live preview](https://sensational-platypus-fa4721.netlify.app/) 
 
 
 # What is ChatGPT:

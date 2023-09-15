@@ -1,4 +1,9 @@
-# Chat_GPT
+# Chat_GPT:
+# Screenshots: 
+![chagpt1](https://github.com/arasuramanan/Chat_GPT/assets/102941390/af418b7d-a984-418d-b669-22a2e1e42822)
+
+![chatgpt2](https://github.com/arasuramanan/Chat_GPT/assets/102941390/b720d99f-7ee1-423e-a560-6510e54103cf)
+
 # website link: https://sensational-platypus-fa4721.netlify.app/
 
 
